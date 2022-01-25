@@ -1,0 +1,2 @@
+SOmente escrevendo quaisquer frases para poder praticar
+o uso de comandos do Unix para a aula da Trybe!!!Olha só, é com >> que se adiciona mais conteudo ao final de um arquivo!!!
