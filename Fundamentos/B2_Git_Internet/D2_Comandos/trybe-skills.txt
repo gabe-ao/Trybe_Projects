@@ -1,0 +1,10 @@
+O que eu vou aprender na Trybe:
+
+- Git: init, add, commit, push, pull, merge;
+- HTML;
+- CSS;
+- Javascript, Fundamentos e Frameworks;
+- UNIX;
+- Bash.
+
+
