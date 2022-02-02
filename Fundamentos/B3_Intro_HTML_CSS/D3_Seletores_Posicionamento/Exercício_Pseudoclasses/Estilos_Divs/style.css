@@ -1,0 +1,38 @@
+div:hover {
+    border: 5px solid black; 
+}
+
+div:first-of-type {
+    background-color: #88D18A;
+    font-family: Ubuntu;
+    font-size: larger;
+}
+
+div:nth-of-type(2) {
+    background-color: #CCDDB7;
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+div:nth-of-type(3) {
+    background-color: #A833B9;
+    height: 1.2cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+div:nth-of-type(4) {
+    background-color: #6A5B6E;
+    font-family: Purisa;
+    font-size: larger;
+}
+
+div:last-of-type {
+    background-color: #F0B7B3;
+    font-family: fantasy;
+    font-size: larger;
+}
+
+div:nth-child(2n+1) {
+    font-style: italic;
+}
