@@ -1,0 +1,65 @@
+body {
+    font-family: ubuntu;
+    font-size: larger;
+}
+
+ol li {
+    background-color: yellow;
+}
+
+ol li:nth-of-type(2n) {
+    color: green;
+}
+
+ol li:nth-of-type(2n+1) {
+    text-transform: uppercase;
+}
+
+.titulo, .subtitulo {
+    color: red;   
+}
+
+.titulo.italico, .subtitulo.italico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li .italico {
+    font-weight: bold;
+}
+
+.top3 {
+    color: blue;
+}
+
+li.java {
+    background-color: pink;
+}
+
+#ally li:hover {
+    font-weight: bold;
+}
+
+#stack:hover {
+    color: orange;
+}
+
+#w3:hover {
+    color: green;   
+}
+
+#mdn:hover {
+    color: black;
+}
+
+#DD:hover {
+    color: yellow;
+}
+
+#trybe:hover {
+    color: green;
+}
