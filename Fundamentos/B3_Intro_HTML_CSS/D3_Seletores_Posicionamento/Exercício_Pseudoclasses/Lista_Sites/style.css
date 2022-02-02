@@ -1,0 +1,21 @@
+body {
+    font-family: Ubunto, monospace, sans-serif;
+}
+
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: greenyellow;
+}
+
+li:active {
+    font-family: Purisa;
+    font-weight: bolder;
+    font-size: x-large;   
+}
+
+ol, ul {
+    list-style: none;
+}
