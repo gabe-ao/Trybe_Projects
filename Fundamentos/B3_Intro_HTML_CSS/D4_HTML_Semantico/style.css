@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+}
+
+.first {
+    display: block;
+    position: relative;
+    margin: auto;
+}
+
+li {
+    display: inline-block;
+}
+
+section {
+    text-align: center;
+    border: 2px solid red;
+}
