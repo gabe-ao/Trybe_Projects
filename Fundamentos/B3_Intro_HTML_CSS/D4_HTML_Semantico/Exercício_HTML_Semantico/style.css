@@ -5,3 +5,10 @@ body {
 * {
     border: inherit;
 }
+
+table {
+    font-family: Ubuntu,monospace,sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin:auto;
+}
