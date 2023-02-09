@@ -1,0 +1,2 @@
+docker stop -t 0 01container
+docker rm 01container

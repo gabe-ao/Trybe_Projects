@@ -1,0 +1,21 @@
+version: '3'
+services: 
+  todotests:
+    image: todotests
+    depends_on:
+      - todofront
+      - todoback
+    environment: # Há duas formas diferentes de se declarar variaveis, aqui como objeto, mais abaixo como array
+      FRONT_HOST: todofront
+  todofront:
+    image: todofrontend
+    ports:
+      - 3000:3000
+    depends_on:
+      - todoback
+    environment: # Sintaxe diferente da anterior para demonstrar que ha duas formas de se declarar variaveis
+      - REACT_APP_API_HOST=todoback
+  todoback:
+    image: todobackend
+    ports:
+      - 3001:3001

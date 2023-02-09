@@ -1,0 +1,1 @@
+docker create --interactive --name 01container alpine:3.12
