@@ -1,0 +1,76 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "01 - Crie a rota /cars onde seja possível cadastrar um carro",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "02 - Crie o endpoint para listar carros",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "03 - Escreva testes para cobrir 30% da camada de Service",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "04 - Crie a rota /cars/:id onde seja possível atualizar um carro por ID",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "05 - Crie a rota /motorcycles onde seja possível cadastrar uma moto",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "06 - Escreva testes para cobrir 60% da camada de Service",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "07 - Crie a rota /motorcycles onde seja possível listar motos",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "08 - Crie a rota /motorcycles/:id onde seja possível atualizar uma moto por ID",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "09 - Escreva testes para cobrir 80% da camada de Service",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    }
+  ]
+}
