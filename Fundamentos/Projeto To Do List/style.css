@@ -1,0 +1,16 @@
+body {
+    padding: 2%;
+    background-color: darkgray;
+}
+
+main {
+    min-block-size: 150px;
+}
+
+#tarefa-selecionada {
+    background-color: gray;
+}
+
+.completed {
+    text-decoration: line-through solid black;
+}

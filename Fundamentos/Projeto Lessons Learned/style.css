@@ -1,0 +1,115 @@
+body {
+    background-color: #1E1E3F;
+    padding: 3%;
+    font-family: Ubuntu;
+}
+
+header {
+    position: fixed;
+    width: 80vw;
+    top: 0;
+    border: 3px solid #A599E9;
+    background-color: #2D2B55;
+    color: #FAD000;
+    padding: 1% 5%;
+}
+
+main {
+    margin: 5% 0% 5% 2%;
+    border: 3px solid #A599E9;
+    background-color: #2D2B55;
+    color: #A5FF90;
+    padding: 2%;
+    width: 60vw;
+}
+
+aside {
+    color: #9EFFFF;
+    padding: 1%;
+}
+
+.lado-esquerdo, .lado-direito {
+    display: inline-block;
+}
+.lado-direito {
+    position: fixed;
+    width: 20vw;
+    margin: 4.6% 0% 0% 1%;
+}
+
+#titulo {
+    margin: auto;
+}
+
+h2,h3,h4,#etiqueta_contatos {
+    text-align: center;
+    padding: 1%;
+    color: #FAD000 ;
+}
+
+h2,h3,aside {
+    margin: 0%;
+    border: 3px solid #A599E9;
+    background-color: #2D2B55;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+}
+
+figcaption {
+    font-size: 14px;
+    text-align: center;
+    padding: 1%;
+    color: #FF7200;
+}
+
+p, ul, ol {
+    line-height: 6mm;
+    font-size: 17px;
+}
+
+ul b, ol b {
+    color: #FAD000;
+}
+
+table, th, tr, td, #titulo_tabela {
+    background-color: #2D2B55;
+    color: #9EFFFF;
+    text-align: center;
+    border: 1px solid #A599E9;
+    font-size: 15px;
+}
+
+th,tr,td, #titulo_tabela {
+    padding: 1%;
+}
+
+#titulo_tabela {
+    font-weight: bold;
+    font-size: large;
+    color: #FAD000;
+}  
+
+a {
+    color: #FF7200;
+    margin-inline: 1%;
+    text-decoration: none;
+    font-size: normal;
+}
+
+#etiqueta_contatos, h4 {
+    display: inline;
+}
+
+footer {
+    position: fixed;
+    width: 80vw;
+    bottom: 0;
+    border: 3px solid #A599E9;
+    background-color: #2D2B55;
+    color: #9EFFFF;
+    padding: 1% 5%;
+}
