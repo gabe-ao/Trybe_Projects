@@ -1,0 +1,21 @@
+body {
+  background-image: url('./images/background.png');
+  background-color: aquamarine;
+  color: #FAD000;
+}
+
+main, .system, .planet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.planet-line {
+  display: flex;
+}
+
+.App {
+  text-align: center;
+}
+
+
