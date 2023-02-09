@@ -1,0 +1,25 @@
+/* footer {
+  background-color: #dee2e6;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  margin-top: 1.5rem;
+  padding: 8px;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+footer a {
+  transition: 0.2s ease-out all;
+}
+
+footer a:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.footer-icon {
+  width: 2rem;
+} */

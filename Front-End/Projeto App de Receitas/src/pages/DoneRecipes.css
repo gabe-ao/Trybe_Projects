@@ -1,0 +1,50 @@
+.page-container {
+  background-color: #e9ecef;
+  width: 100vw;
+}
+
+.card-container {
+  width: 75%;
+}
+
+.done-card {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 0;
+  width: 100%;
+}
+
+.done-image {
+  height: 180px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card-title {
+  color: #6c757d;
+  font-family: Titan One , sans-serif;
+}
+
+.share-container {
+  left: 230px;
+  position: absolute;
+  top: 220px;
+  width: fit-content;
+}
+
+.tags-container {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tag {
+  background-color: #6c757d;
+  border-radius: 30px;
+  color: white;
+  font-family: Source Sans Pro , sans-serif;
+  font-weight: 600;
+  margin: 5px;
+  padding: 2px 7px;
+}

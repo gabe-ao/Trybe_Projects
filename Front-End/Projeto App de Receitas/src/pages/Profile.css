@@ -1,0 +1,20 @@
+.main-container {
+  background-color: #e9ecef;
+}
+
+.user-email {
+  color: #6c757d;
+  font-family: Source Sans Pro , sans-serif;
+  font-weight: 600;
+}
+
+.buttons-container {
+  height: 70vh;
+}
+
+.button-style {
+  color: #6c757d;
+  font-family: Source Sans Pro , sans-serif;
+  font-weight: 600;
+  width: 60vw;
+}

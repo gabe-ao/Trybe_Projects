@@ -1,0 +1,15 @@
+.line-through {
+  font-family: Source Sans Pro , sans-serif;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-right: 10px;
+  text-decoration: line-through;
+}
+
+.normal {
+  font-family: Source Sans Pro , sans-serif;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-right: 10px;
+  text-decoration: none;
+}

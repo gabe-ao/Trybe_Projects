@@ -1,0 +1,17 @@
+.card {
+  width: 10rem;
+}
+
+.main-container {
+  background-color: #e9ecef;
+  width: 100vw;
+}
+
+.card-image-overlay {
+  background-color: rgba(33, 37, 41, 0.5);
+}
+
+.card-title {
+  font-family: Titan One , sans-serif;
+  opacity: 1;
+}

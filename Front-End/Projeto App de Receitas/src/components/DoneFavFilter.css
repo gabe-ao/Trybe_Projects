@@ -1,0 +1,10 @@
+.button-group {
+  width: 100vw;
+}
+
+.btn-style {
+  font-family: Source Sans Pro , sans-serif;
+  font-size: 1.1em;
+  font-weight: 600;
+  width: 33vw;
+}

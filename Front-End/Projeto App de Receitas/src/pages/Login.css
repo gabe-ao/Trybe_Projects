@@ -1,0 +1,21 @@
+.main-page {
+  height: 100vh;
+}
+
+.page-title {
+  color: white;
+  font-family: Titan One , sans-serif;
+  font-size: 3em;
+}
+
+.other-text {
+  font-family: Source Sans Pro , sans-serif;
+  font-weight: 600;
+}
+
+.button {
+  font-family: Source Sans Pro , sans-serif;
+  font-weight: 600;
+  transition: 0.5s;
+  width: 100%;
+}
