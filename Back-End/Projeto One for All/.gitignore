@@ -1,0 +1,7 @@
+node_modules/
+
+# VSCode repo settings
+.vscode
+.env
+.~lock.MyNormalizedModel.ods#
+ALT_desafio4.sql
